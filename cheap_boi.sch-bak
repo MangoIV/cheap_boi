@@ -2144,4 +2144,69 @@ Wire Wire Line
 	4250 5600 4250 5750
 Wire Wire Line
 	4000 5400 4000 5750
+$Comp
+L Connector_Generic:Conn_01x03 J1
+U 1 1 5EF82DD1
+P 5200 5350
+F 0 "J1" H 5280 5392 50  0000 L CNN
+F 1 "RGB_breakout" H 5280 5301 50  0000 L CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical" H 5200 5350 50  0001 C CNN
+F 3 "~" H 5200 5350 50  0001 C CNN
+	1    5200 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0118
+U 1 1 5F001636
+P 4850 5450
+F 0 "#PWR0118" H 4850 5200 50  0001 C CNN
+F 1 "GND" H 4855 5277 50  0000 C CNN
+F 2 "" H 4850 5450 50  0001 C CNN
+F 3 "" H 4850 5450 50  0001 C CNN
+	1    4850 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0119
+U 1 1 5F00271B
+P 4850 5250
+F 0 "#PWR0119" H 4850 5100 50  0001 C CNN
+F 1 "+5V" H 4865 5423 50  0000 C CNN
+F 2 "" H 4850 5250 50  0001 C CNN
+F 3 "" H 4850 5250 50  0001 C CNN
+	1    4850 5250
+	1    0    0    -1  
+$EndComp
+Text GLabel 4850 5350 0    50   Input ~ 0
+Din1
+Wire Wire Line
+	4850 5250 5000 5250
+Wire Wire Line
+	4850 5350 5000 5350
+Wire Wire Line
+	4850 5450 5000 5450
+Text GLabel 3250 6500 2    50   Input ~ 0
+ROW0
+Text GLabel 3250 5400 2    50   Input ~ 0
+ROW1
+Text GLabel 3250 5500 2    50   Input ~ 0
+ROW2
+Text GLabel 3250 4000 2    50   Input ~ 0
+ROW3
+Text GLabel 3250 5800 2    50   Input ~ 0
+COL0
+Text GLabel 3250 4100 2    50   Input ~ 0
+COL1
+Text GLabel 3250 4200 2    50   Input ~ 0
+COL2
+Text GLabel 3650 4550 3    50   Input ~ 0
+COL3
+Wire Wire Line
+	3250 4500 3650 4500
+Wire Wire Line
+	3650 4500 3650 4550
+Text GLabel 3250 4600 2    50   Input ~ 0
+COL4
+Text GLabel 3250 5200 2    50   Input ~ 0
+COL5
 $EndSCHEMATC

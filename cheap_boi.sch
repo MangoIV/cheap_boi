@@ -1793,7 +1793,7 @@ Wire Wire Line
 	10600 4450 10000 4450
 Connection ~ 3900 4450
 Wire Wire Line
-	3900 4450 3650 4450
+	3900 4450 3800 4450
 Connection ~ 4450 4450
 Wire Wire Line
 	4450 4450 3900 4450
@@ -1992,7 +1992,7 @@ Text GLabel 3650 3150 0    50   Input ~ 0
 ROW1
 Text GLabel 3650 3800 0    50   Input ~ 0
 ROW2
-Text GLabel 3650 4450 0    50   Input ~ 0
+Text GLabel 3800 4450 0    50   Input ~ 0
 ROW3
 Wire Wire Line
 	4200 2750 4200 2000
@@ -2124,7 +2124,7 @@ U 1 1 5F0D2F2C
 P 4250 5750
 F 0 "#PWR0116" H 4250 5600 50  0001 C CNN
 F 1 "VCC" H 4265 5923 50  0000 C CNN
-F 2 "" H 4250 5750 50  0001 C CNN
+F 2 "COL6" H 4250 5750 50  0001 C CNN
 F 3 "" H 4250 5750 50  0001 C CNN
 	1    4250 5750
 	-1   0    0    1   
@@ -2150,7 +2150,7 @@ U 1 1 5EF82DD1
 P 5200 5350
 F 0 "J1" H 5280 5392 50  0000 L CNN
 F 1 "RGB_breakout" H 5280 5301 50  0000 L CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical_SMD_Pin1Left" H 5200 5350 50  0001 C CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical" H 5200 5350 50  0001 C CNN
 F 3 "~" H 5200 5350 50  0001 C CNN
 	1    5200 5350
 	1    0    0    -1  
@@ -2185,4 +2185,38 @@ Wire Wire Line
 	4850 5350 5000 5350
 Wire Wire Line
 	4850 5450 5000 5450
+Text GLabel 3250 6500 2    50   Input ~ 0
+ROW0
+Text GLabel 3250 5000 2    50   Input ~ 0
+ROW1
+Text GLabel 3250 5100 2    50   Input ~ 0
+ROW2
+Text GLabel 3250 5300 2    50   Input ~ 0
+ROW3
+Text GLabel 3250 5800 2    50   Input ~ 0
+COL0
+Text GLabel 3250 5200 2    50   Input ~ 0
+COL1
+Text GLabel 3250 5400 2    50   Input ~ 0
+COL2
+Text GLabel 3250 5500 2    50   Input ~ 0
+COL3
+Text GLabel 3250 4000 2    50   Input ~ 0
+COL4
+Text GLabel 3250 4100 2    50   Input ~ 0
+COL5
+Text GLabel 3250 4200 2    50   Input ~ 0
+COL6
+Text GLabel 3250 4500 2    50   Input ~ 0
+COL7
+Text GLabel 3250 4600 2    50   Input ~ 0
+COL8
+Text GLabel 3250 6400 2    50   Input ~ 0
+COL9
+Text GLabel 3250 6300 2    50   Input ~ 0
+COL10
+Text GLabel 3250 6200 2    50   Input ~ 0
+COL11
+Text GLabel 3250 6100 2    50   Input ~ 0
+COL12
 $EndSCHEMATC
