@@ -4,7 +4,7 @@
 - WIP, PCB has **NOT** been tested up to now 
 - cheap, ortholinear keyboard with  OLED-Display and RGB underglow
 ## Render of front side
-![render of front side](https://github.com/MangoIV/cheap_boi/blob/master/renders/front_side.png "render of front side")
+![render of front side](https://github.com/MangoIV/cheap_boi/blob/master/renders/pcb_front.jpg "render of front side")
 ## Features
 ### implemented
 - microcontroller ATmega32u4
