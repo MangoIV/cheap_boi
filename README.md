@@ -1,8 +1,10 @@
-# cheap_boi
+# The cheap_boi mechanical keyboard
 ### The cheap_boi is going to be a new custom mechanical keyboard with a low pricetag
 ## TL;DR
 - WIP, PCB has **NOT** been tested up to now 
 - cheap, ortholinear keyboard with  OLED-Display and RGB underglow
+## Render of front side
+![render of front side](https://github.com/MangoIV/cheap_boi/edit/master/renders/pcb_front.png "render of front side")
 ## Features
 ### implemented
 - microcontroller ATmega32u4
