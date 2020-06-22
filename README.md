@@ -17,4 +17,5 @@
 - add FR4 Plate and Bottomplate to design
 - add acrylic viewing windows to design (needs change to PCB)
 
+pls don't steal this. I have not looked at licensing yet. If you want to use it commercially, just ask me first 
 
