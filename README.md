@@ -9,7 +9,7 @@
 ### implemented
 - microcontroller ATmega32u4
 - ortholinear layout similar to the planck
-- 4 individually function keys 
+- 4 individual function keys 
 - underglow LEDs using WS2812B
 - OLED display using SSD1306
 ### planned
