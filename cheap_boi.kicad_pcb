@@ -86,7 +86,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "gerber_files"))
+      (outputdirectory "gerber_pcb/"))
   )
 
   (net 0 "")
@@ -6413,7 +6413,7 @@
   (segment (start 93.389401 63.5086) (end 95.8936 63.5086) (width 0.25) (layer F.Cu) (net 100))
   (segment (start 93.144001 63.754) (end 93.389401 63.5086) (width 0.25) (layer F.Cu) (net 100))
 
-  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5EF15AC2) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5EF35E32) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -10352,7 +10352,7 @@
       )
     )
   )
-  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 5EF15ABF) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 5EF35E2F) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
