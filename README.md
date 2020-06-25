@@ -14,11 +14,12 @@
 - underglow LEDs using WS2812B
 - OLED display using SSD1306
 - FR4 Bottom- and Switchplate with windows to see microcontroller and OLED
-- have a look at the folder "renders" to see renders of the PCB and plates 
+- have a look at the folder "renders" to see renders of the PCB and plates
 ### planned
 - support QMK-Firmware
 - add acrylic viewing window to design (needs change to PCB)
 - ESD-protection for USB-Port
+- add USB-C footprint for people who need one
 - acrylic Bottom- and Switchplate
 - other footprints for switches
 - different mounting system 
