@@ -6,7 +6,7 @@
 - Gerbers added, print on own risk
 ## Render of front side
 ![render of front side](https://github.com/MangoIV/cheap_boi/blob/master/renders/pcb_front.jpg "render of front side")
-![render of front side](https://github.com/MangoIV/cheap_boi/blob/master/renders/plate_front.jpg "render of the plate")
+![render of front side](https://github.com/MangoIV/cheap_boi/blob/master/renders/plate_front_side.jpg "render of the plate")
 ## Features
 ### implemented
 - microcontroller ATmega32u4
