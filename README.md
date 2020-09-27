@@ -24,6 +24,7 @@
 - 3D-printed case
 - alps/mx hybrid switch cutouts on the top plate
 - add the easier footprint for the crystal
+- add some nice silkscreen art on PCB and top plate 
 ### in the future
 - change the design to arm, won't come that quickly though 
 ### current status concerning prototype
