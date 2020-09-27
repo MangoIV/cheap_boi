@@ -1,7 +1,7 @@
 # The cheap_boi mechanical keyboard
 ### The cheap_boi is going to be a new custom mechanical keyboard with a low pricetag
 ## TL;DR
-- WIP, PCB has **NOT** been tested up to now 
+- WIP, PCB has been tested
 - cheap, ortholinear keyboard with  OLED-Display and RGB underglow
 - Gerbers added, print on own risk
 ## Render of front side
@@ -16,17 +16,20 @@
 - OLED display using SSD1306
 - FR4 Bottom- and Switchplate with windows to see microcontroller and OLED
 - have a look at the folder "renders" to see renders of the PCB and plates
+- a working firmware exists on my fork of the qmk_firmware on the branch cheap_boi
 ### planned
-- support QMK-Firmware
 - add acrylic viewing window to design (needs change to PCB)
 - ESD-protection for USB-Port
-- add USB-C footprint for people who need one
 - acrylic Bottom- and Switchplate
-- other footprints for switches
-- different mounting system 
 - 3D-printed case
-- renders of how the keyboard will look
+- alps/mx hybrid switch cutouts on the top plate
+- add the easier footprint for the crystal
+### in the future
+- change the design to arm, won't come that quickly though 
 ### current status concerning prototype
-- PCBs and parts are ordered, waiting for them to ship 
-
-pls don't steal this. I have not looked at licensing yet. If you want to use it commercially, just ask me first 
+- PCBs and parts have arrived and been tested
+- the first Prototype has been built and is fully working 
+### problems of the current design
+- one of the switches is not connected to the matrix
+- the current footprint of the crystal is really hard to solder 
+- I need to add a cutout on the top plate for the usb port, as it is under the top plate and not usable with a normal cable, also the switches don't sit flush on the PCB due to that problem. This will also make it possible to use 0.7cm standoffs instead of 1cm
