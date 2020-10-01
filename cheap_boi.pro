@@ -1,4 +1,4 @@
-update=Mo 22 Jun 2020 15:48:40 CEST
+update=Sun 27 Sep 2020 01:20:27 PM CEST
 version=1
 last_client=kicad
 [general]
@@ -253,7 +253,7 @@ PageLayoutDescrFile=
 PlotDirectoryName=gerber_files
 SubpartIdSeparator=0
 SubpartFirstId=65
-NetFmtName=
+NetFmtName=Pcbnew
 SpiceAjustPassiveValues=0
 LabSize=50
 ERC_TestSimilarLabels=1
