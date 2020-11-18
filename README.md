@@ -4,6 +4,7 @@
 - WIP, PCB has been tested
 - cheap, ortholinear keyboard with  OLED-Display and RGB underglow
 - Gerbers added, print on own risk
+- [BOM](http://htmlpreview.github.io/?https://github.com/MangoIV/cheap_boi/bom/ibom.html)
 ## Render of front side
 ![render of front side](https://github.com/MangoIV/cheap_boi/blob/master/renders/pcb_front.jpg "render of front side")
 ![render of front side](https://github.com/MangoIV/cheap_boi/blob/master/renders/plate_front_side.jpg "render of the plate")
